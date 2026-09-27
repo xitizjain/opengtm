@@ -10,5 +10,5 @@ __author__ = "Federico De Ponte"
 __license__ = "MIT"
 
 # Model constants - use these everywhere, never hardcode model names
-DEFAULT_MODEL = "gemini-2.0-flash"
+DEFAULT_MODEL = "gemini-3.8-flash"
 DEFAULT_PRO_MODEL = "gemini-2.0-pro-exp"
